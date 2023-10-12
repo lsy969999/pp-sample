@@ -1,0 +1,31 @@
+{
+  "name": "pp-sample",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000p\u0000-\u0000s\u0000a\u0000m\u0000p\u0000l\u0000e\u0000\r\u0000 \u0000`\u0000`\u0000`\u0000\r\u0000 \u0000\r\u0000 \u0000n\u0000p\u0000m\u0000 \u0000i\u0000n\u0000i\u0000t\u0000\r\u0000 \u0000\r\u0000 \u0000`\u0000`\u0000`\u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wp": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsy969999/pp-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsy969999/pp-sample/issues"
+  },
+  "homepage": "https://github.com/lsy969999/pp-sample#readme",
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "html-webpack-plugin": "^5.5.3",
+    "sass": "^1.69.3",
+    "sass-loader": "^13.3.2",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
